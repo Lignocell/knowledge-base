@@ -1,0 +1,19 @@
+CLEAN SAMPLES:
+public class Main{
+    public static void main(String[] args){
+        ArrayList<String>al=new ArrayList<>();
+        al.add("niubi");
+public interface Collection<E> extends Iterable<E>{
+    boolean isEmpty();
+    boolean contains(Object o);
+    Iterator<E> iterator();
+
+MOJI SAMPLES:
+濡傛灉瀛﹁繃C++鐨勮瘽锛岄泦鍚堢被鍏跺疄鐩稿綋浜庡鍣ㄣ€?
+闆嗗悎绫诲ぇ浣撲笂鍏跺疄灏辨槸鎴戜滑楂樹腑鏁板瀛︿範杩囩殑宸泦琛ラ泦骞堕泦绛夌瓑涓€绯诲垪鐨勬蹇碉紝鑰屼笌鏁扮粍瀵规瘮鑰岃█锛屽畠浠兘鍙互瀹圭撼涓€缁勬暟鎹紱鑰屼笉鍚屼箣澶勫湪浜庯細
+- 鏁扮粍鐨勫ぇ灏忔槸鍥哄畾鐨勶紝鑰岄泦鍚堟槸鍙彉鐨勩€?
+- 鏁扮粍鍙互瀛樻斁鍩烘湰鏁版嵁绫诲瀷锛屼絾闆嗗悎鍙兘瀛樻斁瀵硅薄銆?
+- 鏁扮粍瀛樻斁鐨勭被鍨嬪彧鑳芥湁涓€绉嶏紝浣嗛泦鍚堝彲浠ユ湁涓嶅悓绉嶅厓绱犮€?
+java宸茬粡鎶婃垜浠渶瑕佺殑甯哥敤闆嗗悎閮界粰瀹炵幇濂戒簡锛屾垜浠嬁鏉ョ敤灏卞彲浠ヤ簡锛屽熀鏈笂鏄湪java.util涓嬪畾涔夌殑銆?
+鎵€鏈夐泦鍚堢被鏈€缁堥兘鏄疄鐜拌嚜闆嗗悎鏍规帴鍙ｇ殑锛屾瘮濡侫rrayList锛屽畠鐨勭鍏堝氨鏄疌ollection鎺ュ彛銆?[image-20220930232759715](https://oss.itbaima.cn/internal/markdown/2022/09/30/U9DdJinhCp6BITe.png)
+杩欎釜鎺ュ彛瀹氫箟浜嗕竴浜涢泦鍚堢被鐨勫熀鏈搷浣滐紝浠ヤ笅鎴戜滑鍒楀嚭涓€浜涳細
